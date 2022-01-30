@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 20,
+    "explorer.confirmDelete": false,
+    "cmake.configureOnOpen": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "extensions.autoUpdate": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "doxdocgen.generic.authorName": "Jugal Shah",
+    "doxdocgen.generic.authorEmail": "shahjugalr@gmail.com",
+    "doxdocgen.generic.dateFormat": "DD/MM/YYYY",
+    "doxdocgen.generic.useGitUserName": true
+}
